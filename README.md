@@ -1,11 +1,6 @@
 # Competitions
 Competitions is an open source tool to run NIH-style peer review of competitions, pilot projects, and research proposals in a cloud-based consortium-wide single sign-on platform.
 
-# Template for project repositories
-*Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation and provides an introductory GitHub tutorial for project management purposes.*
-
-*This "project" will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories.*
-
 ## Problem statement
 *Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand.*
 
