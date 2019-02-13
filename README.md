@@ -20,7 +20,7 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
+Laura Wimbiscus (@lmkw) | Northwestern | 
 
 ## Leads 
 
