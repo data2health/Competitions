@@ -28,7 +28,8 @@ Project scientific leadership, should be 1-3 persons.
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Julie McMurry (@jmcmurry) | OHSU 
+Matthew Baumann (@mattbaumann1) | Northwestern 
+John Serafin (@jseraf) | Northwestern
 
 
 ## Team members 
