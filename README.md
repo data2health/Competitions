@@ -22,6 +22,7 @@ Lead(s) (github handle) | Site
 ----------|--------------|
 Matthew Baumann (@mattbaumann1) | Northwestern 
 John Serafin (@jseraf) | Northwestern
+Firas Wehbe (@firaswehbe) | Northwestern
 
 
 ## Team members 
