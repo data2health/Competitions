@@ -68,15 +68,8 @@ See https://github.com/data2health/competitions-project/tree/master/team.md
 *Please tag any engagement related issues with "engagement".*
 
 ## Working documents
-*Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
-[Documentating projects in Github](https://guides.github.com/features/wikis/)*
-
-*[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants.*
+*As this project progresses, working documents will be made available either through this project's wiki or via other means like Google Drive folders*
 
 ## Slack room
-*[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.*
-
-## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
-
-*This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more*
+*[The project slack room](https://cd2h.slack.com/messages/CG7EQ74UB/) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.*
 
