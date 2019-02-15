@@ -31,11 +31,8 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
-*List Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons.*
-
-*Example repos:
-- https://github.com/data2health/project-repo-template
-- https://github.com/data2health/operations; private repo editable by members of team @data2health/ops*
+- CD2H Phase II project repo: https://github.com/data2health/competitions-project
+- Code repo: https://github.com/NUARIG/competitions
 
 ## Deliverables
 *Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.*
