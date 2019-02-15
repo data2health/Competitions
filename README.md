@@ -27,7 +27,7 @@ Firas Wehbe (@firaswehbe) | Northwestern
 
 ## Team members 
 
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+See https://github.com/data2health/competitions-project/tree/master/team.md
 
 ## Repositories
 
