@@ -35,19 +35,21 @@ See https://github.com/data2health/competitions-project/tree/master/team.md
 - Code repo: https://github.com/NUARIG/competitions
 
 ## Deliverables
-*Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.*
+A functioning prototype of a CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired
+
 
 ## Milestones 
-*Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)*
-
-*Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc.*
-
-*Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).*
-
-*GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)*
+- Set up authentication
+- Set up cloud or local hosting environment
+- Code Competitions for cloud
+- User acceptance testing
+- Evaluation work stream
 
 ## Evaluation
-*Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist.*
+- Usage metrics of the cloud instance: unique user counts, unique user log-ins, active competitions created, number of submissions, reviews, etc.
+- Local adoption (attempted, successful)
+- Measure of open-source contribution: Pull requests, GitHub issues (opened, resolution, and unique contributors)
+
 
 *Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)*
 
@@ -61,7 +63,11 @@ See https://github.com/data2health/competitions-project/tree/master/team.md
 *Please include education related issues where relevant, tagged with "education".*
 
 ## Get involved
-*We encourage the community to get involved.*
+Technical:
+Pilot the platform, provide feedback (features, documentation, implementation workflows, etc), contribute to development via open source workflow e.g. GitHub fork and pull request, contribute to documentation, submit feature requests, participate in SAML  infrastructure to enable SSO (applies to all cloud-based deployments not just Competitions)
+Cultural:
+Develop use cases, be a demonstration partner, provide feedback on product design, utilize the cloud-deployed instance, develop local implementation strategies, test local engagement materials, seek requirements, share strategies to support local projects; collaborate on best practices for local adoption, implementation, engagement, integration
+
 
 *We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).*
 
