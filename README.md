@@ -2,7 +2,7 @@
 Competitions is an open source tool to run NIH-style peer review of competitions, pilot projects, and research proposals in a cloud-based consortium-wide single sign-on platform.
 
 ## Problem statement
-*Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand.*
+A platform to support robust peer review within and across CTSA hubs does not currently exist. Competitions is a software tool for investigators, reviewers and administrators to run various types of reviews and competitions, including pilot projects, research awards and reviews.
 
 ## Project description
 (we will migrate these from the Project Matrix for you)
@@ -64,9 +64,10 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 
 ## Get involved
 Technical:
-Pilot the platform, provide feedback (features, documentation, implementation workflows, etc), contribute to development via open source workflow e.g. GitHub fork and pull request, contribute to documentation, submit feature requests, participate in SAML  infrastructure to enable SSO (applies to all cloud-based deployments not just Competitions)
+- Pilot the platform, provide feedback (features, documentation, implementation workflows, etc), contribute to development via open source workflow e.g. GitHub fork and pull request, contribute to documentation, submit feature requests, participate in SAML  infrastructure to enable SSO (applies to all cloud-based deployments not just Competitions)
+
 Cultural:
-Develop use cases, be a demonstration partner, provide feedback on product design, utilize the cloud-deployed instance, develop local implementation strategies, test local engagement materials, seek requirements, share strategies to support local projects; collaborate on best practices for local adoption, implementation, engagement, integration
+- Develop use cases, be a demonstration partner, provide feedback on product design, utilize the cloud-deployed instance, develop local implementation strategies, test local engagement materials, seek requirements, share strategies to support local projects; collaborate on best practices for local adoption, implementation, engagement, integration
 
 
 *We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).*
