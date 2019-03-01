@@ -62,7 +62,7 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 
 *Please include education related issues where relevant, tagged with "education".*
 
-## Get involved
+## Get involved (Engagement)
 Technical:
 - Pilot the platform, provide feedback (features, documentation, implementation workflows, etc), contribute to development via open source workflow e.g. GitHub fork and pull request, contribute to documentation, submit feature requests, participate in SAML  infrastructure to enable SSO (applies to all cloud-based deployments not just Competitions)
 
