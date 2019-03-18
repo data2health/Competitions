@@ -8,6 +8,10 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 (we will migrate these from the Project Matrix for you)
 
 
+## Alignment to program objectives
+TODO see [here](https://github.com/data2health/operations/blob/master/foa.md)
+
+
 ## Contact person
 
 We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
