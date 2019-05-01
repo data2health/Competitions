@@ -55,8 +55,6 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 - Measure of open-source contribution: Pull requests, GitHub issues (opened, resolution, and unique contributors)
 
 
-*Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)*
-
 ## Education
 *Each project should propose a set of educational activities, listed separately in the Education Plan file.*
 *Please reference any of the following that apply:*
@@ -73,10 +71,6 @@ Technical:
 Cultural:
 - Develop use cases, be a demonstration partner, provide feedback on product design, utilize the cloud-deployed instance, develop local implementation strategies, test local engagement materials, seek requirements, share strategies to support local projects; collaborate on best practices for local adoption, implementation, engagement, integration
 
-
-*We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).*
-
-*Please tag any engagement related issues with "engagement".*
 
 ## Working documents
 *As this project progresses, working documents will be made available either through this project's wiki or via other means like Google Drive folders*
