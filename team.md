@@ -4,13 +4,13 @@
 Name | GitHub Handle | Site
 -- | -- | --
 Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Firas Wehbe | [firaswehbe](https://github.com/firaswehbe) | Northwestern
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
 Matt Carson | [carsonicator](https://github.com/carsonicator) | Northwestern
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
