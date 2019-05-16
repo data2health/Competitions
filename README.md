@@ -2,14 +2,14 @@
 Competitions is an open source tool to run NIH-style peer review of competitions, pilot projects, and research proposals in a cloud-based consortium-wide single sign-on platform.
 
 ## Problem statement
-A platform to support robust peer review within and across CTSA hubs does not currently exist. Competitions is a software tool for investigators, reviewers and administrators to run various types of reviews and competitions, including pilot projects, research awards and reviews.
+A platform to support robust peer review within and across CTSA hubs does not currently exist. Competitions is a software tool for investigators, reviewers and administrators to run various types of reviews and competitions, including pilot projects, research awards and reviews. 
 
 ## Project description
-(we will migrate these from the Project Matrix for you)
+Here, we will upgrade Competitions platform (1) to support CTSA consortium-wide peer-review activities through a cloud-deployment that supports single sign-on and (2) enhance the competitions code base to improve the ease and robustness of local adoption by interested institutions.
 
 
 ## Alignment to program objectives
-TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+See the Funding Opportunity Announcement (FOA) [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md).
 
 
 ## Contact person
