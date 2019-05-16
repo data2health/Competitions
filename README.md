@@ -5,6 +5,8 @@ Competitions is an open source tool to run NIH-style peer review of competitions
 A platform to support robust peer review within and across CTSA hubs does not currently exist. Competitions is a software tool for investigators, reviewers and administrators to run various types of reviews and competitions, including pilot projects, research awards and reviews. 
 
 ## Project description
+Competitions is an internal grant competition program developed by the Northwestern University CTSA. It supports posting of RFAs, electronic submission and electronic, NIH-style proposal reviews. Competitions already supports competitions across the university, and nationwide. The software has successfully managed hundreds of competitions and many thousands of applications. This software will be refactored and expanded with a range of features (multi-level review, upgraded interface, support for cloud-based deployment and SSO protocols, etc.). 
+
 Here, we will upgrade Competitions platform (1) to support CTSA consortium-wide peer-review activities through a cloud-deployment that supports single sign-on and (2) enhance the competitions code base to improve the ease and robustness of local adoption by interested institutions.
 
 
