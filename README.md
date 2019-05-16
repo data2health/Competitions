@@ -14,11 +14,9 @@ See the Funding Opportunity Announcement (FOA) [here](https://github.com/data2he
 
 ## Contact person
 
-We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
-
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Laura Wimbiscus (@lmkw) | Northwestern | 
+Laura Wimbiscus (@lmkw) | Northwestern | Justin Guinney (@jguinney)
 
 ## Leads  
 
@@ -54,23 +52,11 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 - Local adoption (attempted, successful)
 - Measure of open-source contribution: Pull requests, GitHub issues (opened, resolution, and unique contributors)
 
-
 ## Education
-*Each project should propose a set of educational activities, listed separately in the Education Plan file.*
-*Please reference any of the following that apply:*
-*- Educational resources that will be generated (these can be milestones and/or files in the repo)*
-*- Educational opportunities (please indicate for which type of learner and how to participate)*
-*- Best practices guides*
-
-*Please include education related issues where relevant, tagged with "education".*
+Our education plan can be found [here](https://github.com/data2health/competitions-project/blob/master/education.md).
 
 ## Get involved (Engagement)
-Technical:
-- Pilot the platform, provide feedback (features, documentation, implementation workflows, etc), contribute to development via open source workflow e.g. GitHub fork and pull request, contribute to documentation, submit feature requests, participate in SAML  infrastructure to enable SSO (applies to all cloud-based deployments not just Competitions)
-
-Cultural:
-- Develop use cases, be a demonstration partner, provide feedback on product design, utilize the cloud-deployed instance, develop local implementation strategies, test local engagement materials, seek requirements, share strategies to support local projects; collaborate on best practices for local adoption, implementation, engagement, integration
-
+We have several ways to get involved with the Competitions project. Please go to our [Engagement page](https://github.com/data2health/competitions-project/blob/master/engagement.md) to learn more about technical and non-technical ways to collaborate, how to onboard, and more. 
 
 ## Working documents
 *As this project progresses, working documents will be made available either through this project's wiki or via other means like Google Drive folders*
