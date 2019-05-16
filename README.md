@@ -50,9 +50,7 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 - Evaluation work stream
 
 ## Evaluation
-- Usage metrics of the cloud instance: unique user counts, unique user log-ins, active competitions created, number of submissions, reviews, etc.
-- Local adoption (attempted, successful)
-- Measure of open-source contribution: Pull requests, GitHub issues (opened, resolution, and unique contributors)
+Our evaluation plan can be found [here](https://github.com/data2health/competitions-project/blob/master/evaluation.md).
 
 ## Education
 Our education plan can be found [here](https://github.com/data2health/competitions-project/blob/master/education.md).
