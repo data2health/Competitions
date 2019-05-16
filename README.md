@@ -31,22 +31,22 @@ Firas Wehbe (@firaswehbe) | Northwestern
 
 ## Team members 
 
-See https://github.com/data2health/competitions-project/tree/master/team.md
+See [team.md](https://github.com/data2health/competitions-project/tree/master/team.md)
 
 ## Repositories
 
-- CD2H Phase II project repo: https://github.com/data2health/competitions-project
-- Code repo: https://github.com/NUARIG/competitions
+- CD2H Phase II project repo: [github.com/data2health/competitions-project](https://github.com/data2health/competitions-project)
+- Code repo: [github.com/NUARIG/competitions](https://github.com/NUARIG/competitions)
 
 ## Deliverables
 A functioning prototype of a CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired
 
 
 ## Milestones 
-- Set up authentication
-- Set up cloud or local hosting environment
-- Code Competitions for cloud
-- User acceptance testing
+- Enabling Single Sign-On (SSO) authentication 
+- Deployment to NCATS cloud-hosted environment
+- Code refactoring to enable deployment on cloud infrastructure
+- User acceptance testing (UAT)
 - Evaluation work stream
 
 ## Evaluation
