@@ -21,6 +21,20 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 - Roadmap for next phase of work, including incorporation of expertise work such as CEREC.
 
 # Timeline (monthly)
+“Functional, Cloudified, CD2H Vanguard”
+
+Milestone (6 months): 
+A functioning prototype of a CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired. This entails the availability of the following:
+- Public GitHub repo where software can be downloaded, features requested, etc. 
+     - Available at end of Q1; expand through Q4
+- A publicly available cloud-hosted instance that supports SSO user authentication, user-created competitions, user-submitted proposals, and user review. 
+     - Available at end of Q2 - CTSA Fall Meeting; expand through onboarding, enhancements through Q4
+- Publicly shared requirements-gathering and testing results of cloud deployment
+     - Available at end of Q2; expand through Q4 
+- Engagement/support materials and activities, including documentation for interested adopters.
+     - Available at end of Q2; expand through Q4
+- Roadmap for next phase of work, including incorporation of expertise work such as CEREC.
+
 
 
 # Potential Pitfalls and Alternative Strategies
