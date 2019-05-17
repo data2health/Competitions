@@ -21,7 +21,7 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 - Engagement/support materials and activities, including documentation for interested adopters.
 - Roadmap for next phase of work, including incorporation of expertise work such as CEREC.
 
-# Timeline (monthly)
+# Timeline 
 Broadly, the goal of this project is to provide a minimally viable cloud-based product by September 30, 2019 for initial presentation to and review by the CTSA community. We envision a 6-month tail after that dedicated to UAT and feedback; hands-on demonstration; on-boarding (including institutional on-boarding to the NCATS SSO platform); and development of multi-modality educational artifacts. 
 
 Milestone: A functioning prototype of a CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired. 
