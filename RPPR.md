@@ -7,7 +7,7 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 # Methodology
 The Competitions team is part of the larger ARIG Group at Northwestern University. The team runs a version of the Agile methodology to plan work incrementally, paired with continuous feedback, integration, and testing to drive forward progress of this project. We run bi-weekly sprints, with daily stand-ups where team members can call out blockers and dependencies. 
 
-software upgrades
+**Software upgrades:** The Competitions code itself has been in production for around 5 year with only incremental bug fixes and peacemeal feature requests. THis project is an opportunity to upgrade the underlying Ruby on Rails framework to a contemporaneous version. We will also redesign some of the public and participant facing using interfaces as well as the authentication workflow to support the broader use case (beyond NU). 
 
 cloud work
 
