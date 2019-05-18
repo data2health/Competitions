@@ -14,7 +14,7 @@ The Competitions team is part of the larger ARIG Group at Northwestern Universit
 **Testing:** The ethos of our agile development methodology is to present a minimally viable instance as early as we can and then to engage the users in iterative refinement. We plan to solicit direct feedback via demos and provisioning for users so they can inform the subsequent tightly coupled development sprints throughout the rest of the project timeline. 
 
 # Expected Outcomes
-A functioning prototype of a CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired. This entails the availability of the following:  
+A functioning production-ready CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired. This entails the availability of the following:  
 
 - Public GitHub repo where software can be downloaded, features requested, etc.
 - A publicly available cloud-hosted instance that supports SSO user authentication, user-created competitions, user-submitted proposals, and user review.
@@ -22,12 +22,12 @@ A functioning prototype of a CTSA Program-level competition review tool for proj
 - Roadmap for next phase of work, including incorporation of expertise work such as CEREC.
 
 # Deliverables
-A functioning prototype of a CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired
+A functioning production-ready CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired. 
 
 # Timeline 
 Broadly, the goal of this project is to provide a minimally viable cloud-based product by September 30, 2019 for initial presentation to and review by the CTSA community. We envision a 6-month tail after that dedicated to UAT and feedback; hands-on demonstration; on-boarding (including institutional on-boarding to the NCATS SSO platform); and development of multi-modality educational artifacts. 
 
-Milestone: A functioning prototype of a CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired. 
+Milestone: A functioning production-ready CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired. 
 
 This translates to the following timeline:
 
