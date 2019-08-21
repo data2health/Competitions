@@ -20,6 +20,7 @@ Firas Wehbe | [firaswehbe](https://github.com/firaswehbe) | Northwestern
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tom Campion | [github.com](http://github.com) | Cornell
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
@@ -37,6 +38,7 @@ Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
+Steve Patterson | [github.com.](http://github.com.) | #N/A
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
