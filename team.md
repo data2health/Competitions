@@ -38,7 +38,7 @@ Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
-Steve Patterson | [github.com.](http://github.com.) | #N/A
+Steve Patterson | [github.com.](http://github.com.) | iTHRIV
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
