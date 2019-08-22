@@ -36,7 +36,7 @@ Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Steve Patterson | [github.com.](http://github.com.) | iTHRIV
