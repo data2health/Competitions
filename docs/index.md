@@ -6,12 +6,12 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 
 ## USE COMPETITIONS NOW!
 
-* Navigate to [competitions.cd2h.org](https://competitions.cd2h.org){:target="_blank"}
-* Log in using your institutional credentials (_[instructions](howto_login.html)_)
+* Navigate to **[competitions.cd2h.org](https://competitions.cd2h.org){:target="_blank"}**
+* Log in using your institutional credentials _([instructions](howto_login.html))_)
 * Try it out 
 * Browse resources and documentation
 * Sign up for demos and webinars 
-* [Contribute](https://github.com/data2health/competitions-project/issues){:target="_blank"} feedback or feature requests
+* Contribute feedback or feature requests
 
 ## Features
 
@@ -21,3 +21,11 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 * __Enable__ applicants to __view__ available opportunities, __submit__ applications, be __notified__ of outcome
 * __Deploy__ your own locally or use the NCATS-hosted Cloud instance
 * __Flexible__ for all types of internal competitions, including pilot awards, KL2/TL1 competitions, and more
+
+## Questions? Feedback?
+
+Feel free to 
+
+* [send us an email](mailto:competitions-cd2h@northwestern.edu) 
+* [Open an issue on GitHub](https://github.com/data2health/competitions-project/issues){:target="_blank"}
+* Check out our FAQs
