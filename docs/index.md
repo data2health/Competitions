@@ -6,17 +6,14 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 
 ## USE COMPETITIONS NOW!
 
-* Navigate to [competitions.cd2h.org](https://competitions.cd2h.org) 
+* Navigate to [competitions.cd2h.org](https://competitions.cd2h.org){:target="_blank"}
 * Log in using your institutional credentials
 * Try it out 
 * Browse resources and documentation
 * Sign up for demos and webinars 
-* [Contribute]() feedback or feature requests
+* [Contribute](https://github.com/data2health/competitions-project/issues){:target="_blank"} feedback or feature requests
 
-(https://competitions.cd2h.org/)
-
-
-## COMPETITIONS FEATURES
+## Features
 
 * Log in easily using your institutional credentials
 * Create new grant announcements
