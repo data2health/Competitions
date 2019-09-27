@@ -15,11 +15,9 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 
 ## Features
 
-* Log in easily using your institutional credentials
-* Create new grant announcements
-* Manage a NIH-style review and scoring of applications and make awards
-* Enable applicants to view available opportunities, submit applications, be notified of outcome
-* Deploy your own locally or use the NCATS-hosted Cloud instance
-* Flexible for all types of internal competitions, including pilot awards, KL2/TL1 competitions, and more
-
-
+* __Log in__ easily using your institutional credentials
+* __Create__ new grant announcements
+* __Manage__ a NIH-style review and scoring of applications and make awards
+* Enable applicants to __view__ available opportunities, __submit__ applications, be __notified__ of outcome
+* __Deploy__ your own locally or use the NCATS-hosted Cloud instance
+* __Flexible__ for all types of internal competitions, including pilot awards, KL2/TL1 competitions, and more
