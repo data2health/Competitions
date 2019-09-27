@@ -1,12 +1,28 @@
-# Competitions by CD2H
+# Competitions
 
-This is the github page for it.
+## Vision
 
-[Click here](https://competitions.cd2h.org) to access the application.
+A platform to support robust peer review within and across CTSA hubs does not currently exist. Competitions fills this gap with a cloud-based, single-sign on software tool for investigators, reviewers and administrators to operate NIH-style review and scoring. With Competitions, you can post opportunities, submit applications and review and score those submissions.
 
-You can make lists
+## USE COMPETITIONS NOW!
 
-* item 1
-* item 2
-* _item 3_ is italicizied
-* __item 4__ is bold
+* Navigate to [competitions.cd2h.org](https://competitions.cd2h.org) 
+* Log in using your institutional credentials
+* Try it out 
+* Browse resources and documentation
+* Sign up for demos and webinars 
+* [Contribute]() feedback or feature requests
+
+(https://competitions.cd2h.org/)
+
+
+## COMPETITIONS FEATURES
+
+* Log in easily using your institutional credentials
+* Create new grant announcements
+* Manage a NIH-style review and scoring of applications and make awards
+* Enable applicants to view available opportunities, submit applications, be notified of outcome
+* Deploy your own locally or use the NCATS-hosted Cloud instance
+* Flexible for all types of internal competitions, including pilot awards, KL2/TL1 competitions, and more
+
+
