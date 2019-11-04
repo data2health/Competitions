@@ -11,7 +11,7 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 * Try it out 
 * Browse resources and documentation
 * Sign up for demos and webinars 
-* [Contribute feedback or feature requests](https://github.com/data2health/competitions-project/issues){:target="_blank"}
+* [Contribute feedback or feature requests](https://github.com/data2health/competitions-project/issues)
 
 ## Features
 
