@@ -18,7 +18,7 @@ Yes, but they need to have logged into Competitions at least once before you'll 
 
 **Who can see the grant I create?**
 
-Anyone who logs into Competitions can see the RFA and apply to your grant. They cannot edit it unless you add them in the Permissions tab. If you want to limit who applies to your grant, we suggest putting your institution's name in your grant title and explicitly saying who can apply in your RFA.
+Anyone who logs into Competitions can see the RFA and apply to your grant if you publish it and the current date is within the Publish/Open/Close dates. They cannot edit it unless you add them in the Permissions tab. If you want to limit who applies to your grant, we suggest putting your institution's name in your grant title and explicitly saying who can apply in your RFA.
 
 **Can I create a recurring grant?**
 
