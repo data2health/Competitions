@@ -25,5 +25,5 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 ## Questions? Feedback?
 
 * Send an email to <competitions-cd2h@northwestern.edu> 
-* [Open an issue on GitHub](https://github.com/data2health/competitions-project/issues){:target="_blank"}
+* [Open an issue on GitHub](https://github.com/nuarig/competitions/issues){:target="_blank"}
 * Visit our [FAQ page](faq.html){:target="_blank"}
