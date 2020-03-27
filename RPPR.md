@@ -45,3 +45,12 @@ This translates to the following timeline:
 # Potential Pitfalls and Alternative Strategies
 
 Since this is a mature application, we anticipate most of our pitfalls to be contained to the following components: (1) cloud deployment including SSO authentication; (2) unforeseen user needs that arise from the broader context of the CTSA-wide scope. We plan to mitigate the former by engaging the NCATS cloud team as early as possible and to mitigate the latter via the long tail of user acceptance testing coupled with frequent short development / deployment cycles in the second half of our timeline.
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* A functioning production-ready CTSA Program-level competition review tool for projects and events that can be used in the cloud or implemented locally, if desired.
+
+        * Application is at: https://competitions.cd2h.org/
+        * Code can be downloaded from: https://github.com/NUARIG/competitions
+
