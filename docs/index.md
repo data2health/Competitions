@@ -9,6 +9,7 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 * Navigate to **[competitions.cd2h.org](https://competitions.cd2h.org){:target="_blank"}**
 * Log in using your institutional credentials _([instructions](howto_login.html))_
 * Try it out 
+* Create a grant  _([instructions](howto_create_grant.html))_
 * Browse resources and documentation
 * Sign up for demos and webinars 
 * [Contribute feedback or feature requests](https://github.com/nuarig/competitions/issues){:target="_blank"}
