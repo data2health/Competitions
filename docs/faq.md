@@ -10,7 +10,7 @@ Please see the [log-in instructions page](howto_login.html).
 
 **How do I create my own grant?**
 
-Go to Edit Your Profile (upper right corner, under your name) to request grant creator access. You'll receive an email when your access is approved, and you can go to MyGrants, click on Create New Grant and get started immediately.
+Go to Edit Your Profile (upper right corner, under your name) to request grant creator access. You'll receive an email when your access is approved, and you can go to MyGrants, click on Create New Grant and get started immediately. For more instructions, see the [Create a Grant instructions page](howto_create_grant.html).
 
 **Can I add reviewers or grant editors from outside my institution?**
 
