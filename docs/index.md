@@ -11,7 +11,7 @@ A platform to support robust peer review within and across CTSA hubs does not cu
 * Try it out 
 * Create a grant  _([instructions](howto_create_grant.html))_
 * Browse resources and documentation
-* [Email Competitions](<competitions-cd2h@northwestern.edu>) to request demos or webinars 
+* Send an email to <competitions-cd2h@northwestern.edu> to request demos or webinars 
 * [Contribute feedback or feature requests](https://github.com/nuarig/competitions/issues){:target="_blank"}
 
 ## Features
