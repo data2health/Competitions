@@ -19,7 +19,7 @@ There are three steps to creating your grant.
 ![](img/create_grant_4.png)
 
 Continue creating the metadata about your grant by filling out how many reviewers should assess a submission. Also provide the limit
-of submissions a reviewer has to assess (to avoid reviewer fatigue). Save the Overview sections.
+of submissions a reviewer has to assess (to avoid reviewer fatigue). Save the __Overview__ section.
 
 ![](img/create_grant_5.png)
 
