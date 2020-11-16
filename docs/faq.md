@@ -2,7 +2,7 @@
 
 **Will it cost me to use Competitions?**
 
-No. Competitions is provided as a free service for investigators in the CTSA Consortium and their collaborators.
+No. Competitions is provided to the Northwestern community.
 
 **How can I log in?**
 
