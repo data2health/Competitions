@@ -10,7 +10,7 @@ Competitions is a single-sign on software tool for investigators, reviewers and 
 * Try it out 
 * Create a grant 
 * Request a demo or webinar at <competitions@northwestern.edu>
-* [Contribute feedback or feature requests](https://github.com/nuarig/competitions/issues){:target="_blank"}
+* [Contribute feedback or feature requests](https://github.com/nuarig/competitions/issues)
 
 ## Features
 
@@ -24,5 +24,5 @@ Competitions is a single-sign on software tool for investigators, reviewers and 
 ## Questions? Feedback?
 
 * Send an email to <competitions@northwestern.edu> 
-* [Open an issue on GitHub](https://github.com/nuarig/competitions/issues){:target="_blank"}
-* Visit our [FAQ page](faq.html){:target="_blank"}
+* [Open an issue on GitHub](https://github.com/nuarig/competitions/issues)
+* Visit our [FAQ page](faq.html)
